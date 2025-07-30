@@ -10,6 +10,8 @@ I’m a Computer Engineering BE student with a strong foundation in Java backend
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 
+
+
 ## 📈 GitHub Stats
 ![Tanish13-coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanish13-coder&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish13-coder&layout=compact&theme=radical)
@@ -19,5 +21,5 @@ I’m a Computer Engineering BE student with a strong foundation in Java backend
 - [Project 2](https://github.com/Tanish13-coder/project2) - Brief description.
 
 ## 📫 Connect with me!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](linkedin.com/in/tanish-tambe-0319242a8)
+
