@@ -1,60 +1,72 @@
-<div align="center">
+<p align="center">
+<img src="assets/banner.png" width="100%" alt="Tanish Tambe Banner">
+</p>
 
-# Hi 👋, I'm Tanish Tambe
+<h1 align="center">Hi 👋, I'm Tanish Tambe</h1>
 
-### 🚀 Java Full Stack Developer | AI Enthusiast | Computer Engineering Graduate
+<h3 align="center">
+Java Full Stack Developer • AI Enthusiast • Computer Engineering Graduate
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Building+Scalable+Web+Applications;AI+Powered+Solutions;Always+Learning+Something+New" alt="Typing SVG" />
+<p align="center">
 
-<br>
+![](https://komarev.com/ghpvc/?username=Tanish13-coder&label=Profile+Views&color=0e75b6&style=flat)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://tanish13.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanish_Tambe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanish-tambe-0319242a8)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tanishtambe13@gmail.com)
+</p>
 
-</div>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Building+Scalable+Web+Applications;AI+Powered+Solutions;Problem+Solver;Always+Learning+Something+New"/>
+
+</p>
 
 ---
 
 # 💫 About Me
 
-🎓 Computer Engineering Graduate
+🎓 Computer Engineering Graduate (SPPU)
 
-💻 Passionate Java Full Stack Developer
+💼 Java Full Stack Developer passionate about building scalable software
 
-🤖 Interested in Artificial Intelligence & Backend Systems
+🤖 Interested in Artificial Intelligence, Backend Systems & Full Stack Development
 
-🌱 Currently learning System Design & Advanced DSA
-
-📄 Research Paper Published in IJARSCT
+📄 Published Research Paper in **IJARSCT**
 
 🏆 Oracle Cloud Infrastructure Certified
 
-🚀 Hackathon Enthusiast
+🚀 Hackathon Participant (NASA Space Apps & Smart India Hackathon)
+
+🌱 Currently learning **Spring Boot, System Design & Advanced DSA**
+
+---
+
+# 🚀 Currently Working On
+
+- 🚀 Enhancing **CodeInsight**
+- 🌱 Spring Boot & Microservices
+- 📚 Data Structures & Algorithms
+- 🤝 Open Source Contributions
+- ☁ Cloud & Backend Development
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-
 </p>
 
-## Frontend
+### Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
-## Backend
+### Backend
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/JSP-blue?style=for-the-badge">
 
@@ -62,121 +74,153 @@
 
 <img src="https://img.shields.io/badge/JDBC-red?style=for-the-badge">
 
+<img src="https://img.shields.io/badge/REST_API-orange?style=for-the-badge">
+
 </p>
 
-## Database
+### Database
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
-
 </p>
 
-## Tools
+### Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 CodeInsight
+# 🤖 CodeInsight
 
 ### AI Powered Code Evaluation Platform
 
-An intelligent coding platform that enables users to solve programming problems, execute code, receive AI-generated feedback, monitor progress, and compete on leaderboards.
+> An intelligent coding platform where users solve coding problems, execute code online, receive AI-generated feedback, monitor progress, and compete through leaderboards.
 
-### Key Features
+### 🚀 Features
 
-- 🤖 AI Code Evaluation
+- 🤖 AI Generated Code Feedback
 - ⚡ Online Code Execution
-- 🔐 Secure Authentication
-- 📈 Progress Analytics
-- 🏆 Leaderboards
 - 💻 Monaco Code Editor
-- 📊 Performance Tracking
+- 📈 Performance Analytics
 - 📚 Coding Problem Management
+- 🏆 Leaderboards
+- 👤 Secure Authentication
+- 📊 Progress Tracking
 
-**Tech Stack**
+### ⚙ Tech Stack
 
-Java • JSP • Servlets • ReactJS • MySQL • JDBC
+Java • JSP • Servlets • JDBC • MySQL • ReactJS
+
+**Repository**
+
+👉 https://github.com/Tanish13-coder/CodeInsight
 
 ---
 
-## 🏠 RentMate
+# 🏠 RentMate
 
 ### Full Stack Rental Management System
 
-A web application that simplifies rental property management for owners and tenants.
+> A complete rental management application connecting owners and tenants through a secure and efficient platform.
 
-### Key Features
+### 🚀 Features
 
-- 🏡 Property Management
+- 🏠 Property Management
 - 👤 Tenant Dashboard
 - 🏢 Owner Dashboard
-- 💳 Payment Tracking
-- 🔐 Authentication
+- 💳 Payment History
 - 📊 Analytics Dashboard
-- 📂 Role-Based Access
-- 🗄 MySQL Database
+- 🔐 Authentication
+- 🗂 Role Based Access
+- 📱 Responsive Interface
 
-**Tech Stack**
+### ⚙ Tech Stack
 
-Java • JSP • Servlets • MySQL • HTML • CSS • JavaScript
+Java • JSP • Servlets • JDBC • MySQL • HTML • CSS • JavaScript
+
+**Repository**
+
+👉 https://github.com/Tanish13-coder/RentMate
 
 ---
 
-## 🌍 AstroClime
+# 🌎 AstroClime
 
 ### NASA Space Apps Challenge Project
 
-An intelligent climate monitoring platform developed during NASA Space Apps Challenge.
+> A climate intelligence platform developed during NASA Space Apps Challenge to visualize and analyze climate-related information.
 
-### Key Features
+### 🚀 Features
 
-- 🌎 Climate Analytics
-- 📊 Interactive Dashboard
-- 📍 Location Insights
+- 🌍 Climate Analytics
 - 📈 Data Visualization
-- 🌐 NASA Challenge Project
+- 📍 Location Insights
+- 🌦 Weather Information
+- 📊 Interactive Dashboard
+
+### ⚙ Tech Stack
+
+HTML • CSS • JavaScript
+
+**Repository**
+
+👉 https://github.com/Tanish13-coder/AstroClime
 
 ---
 
 # 🏆 Certifications & Achievements
 
-🥇 Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+🏅 Oracle Cloud Infrastructure Certified Foundations Associate
 
 🚀 NASA Space Apps Challenge Participant
 
-🏅 Smart India Hackathon Participant
+🏆 Smart India Hackathon Participant
 
 📄 Research Paper Published (IJARSCT)
 
-👨‍💻 Java Full Stack Development Internship
+💼 Java Full Stack Development Internship
 
 ---
 
 # 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Tanish13-coder&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanish13-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tanish13-coder&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish13-coder&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish13-coder&layout=compact&theme=tokyonight&hide_border=true)
+</p>
 
-</div>
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish13-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tanish13-coder&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Tanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanish13-coder&theme=tokyo-night)](https://github.com/Tanish13-coder)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish13-coder&theme=tokyo-night"/>
+
+</p>
 
 ---
 
@@ -196,7 +240,17 @@ An intelligent climate monitoring platform developed during NASA Space Apps Chal
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
+<a href="https://github.com/Tanish13-coder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
+
+---
+
+# 💡 Quote
+
+> **"Great software isn't written by accident. It's built one commit at a time."**
 
 ---
 
@@ -204,6 +258,8 @@ An intelligent climate monitoring platform developed during NASA Space Apps Chal
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Improve. Repeat."*
+If you like my work, consider ⭐ starring my repositories.
+
+**Code • Learn • Build • Improve • Repeat**
 
 </div>
